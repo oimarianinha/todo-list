@@ -9,12 +9,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## Prévia
-
-Você pode ver a prévia desse projeto na Vercel. Just do it!
-
-[![Deploy with Vercel](https://vercel.com/button)]()
-
 ## Instruções para uso
 
 Clone o projeto e navegue até a pasta dele
