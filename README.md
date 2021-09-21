@@ -20,7 +20,7 @@ Você pode ver a prévia desse projeto na Vercel. Just do it!
 Clone o projeto e navegue até a pasta dele
 
 ```bash
-$ git clone https://github.com/oimarianinha/todo-list && cd todo-list
+$ git clone https://github.com/oimarianinha/todo-list.git && cd todo-list
 ```
 
 Siga os passos abaixo
