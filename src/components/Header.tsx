@@ -1,3 +1,4 @@
+//SCSS
 import '../styles/header.scss'
 
 export function Header() {
